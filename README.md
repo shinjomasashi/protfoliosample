@@ -5,12 +5,12 @@ portfolio samples
 
 ## デモ
 [webサイトを見る](https://shinjoprofilesample.herokuapp.com/)
+![image](https://user-images.githubusercontent.com/85173167/121811810-839efb00-cca0-11eb-8077-309c683d5d15.png)
 
-使った言語やツールなどのバージョンを記載する。
+HTML / CSS
 
 ## インスール方法
-インストールの仕方を記載する。
-
+そのまま"index.html"をブラウザで開くと閲覧できます
 ### その他に記載すると良い事項
 * システム構成図
 * 使い方
